@@ -18,7 +18,7 @@ class _LogInState extends State<LogIn> {
   final String password = "suckBalls";
 
   bool authUser(String username, String password) {
-    print('Welcome $username');
+    print('Welcome super $username');
     return (this.username == username && this.password == password);
   }
 
