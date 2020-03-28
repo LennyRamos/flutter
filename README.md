@@ -4,4 +4,6 @@ Flutter tutorial through app examples
 
 ## Getting Started
 
-checkout out the branch with the app and run it 
+This Lesson provides use of simple widgets 
+
+Builds a Custom Business Card 
